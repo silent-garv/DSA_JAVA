@@ -4,10 +4,17 @@ public class loop {
          //  System.out.println("No from 1 to 10 is :"+i );
         //}
     
-        int i = 0 ;
-        while(i<=10){
+      // int i = 0 ;
+       //while(i<=10){
+         //  System.out.println(i);
+           //i++;
+        //} 
+        int i = 0;
+        do { 
             System.out.println(i);
             i++;
-        } 
+        } while (i<10);
+
+
 }
 }
