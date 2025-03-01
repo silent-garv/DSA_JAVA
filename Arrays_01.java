@@ -1,6 +1,6 @@
 public class Arrays_01 {
     public static void main(String[] args) {
-        int[] marks = new int[3];
+        int marks[] = new int[3];
         marks[0] = 94;
         marks[1] = 87;
         marks[2] = 91;
