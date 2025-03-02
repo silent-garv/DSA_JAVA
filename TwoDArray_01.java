@@ -21,6 +21,7 @@ public class TwoDArray_01 {
                 System.out.print(numbers[i][j]+ " ");
             }
             System.out.println();
+            sc.close();
         } 
      
     }
