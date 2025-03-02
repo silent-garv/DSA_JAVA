@@ -21,7 +21,7 @@ public class TwoDArray_02 {
                 if(numbers[i][j] == x){
                     System.out.println("X found at index ("+ i +" , "+ j+")");
                 }
-
+sc.close();
             }
         }
     }
