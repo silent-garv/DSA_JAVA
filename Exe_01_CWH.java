@@ -10,7 +10,7 @@ public class Exe_01_CWH {
         int e = sc.nextInt();
         int result = a + b + c + d + e;
         System.out.println("The sum of your marks is :"+result);
-        double percentage = (result/500.0)*100;
+        double percentage = (result/500.0f)*100;
         System.out.println("The percentage of your marks is :"+percentage);
         sc.close();
     }
