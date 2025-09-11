@@ -26,5 +26,6 @@ public class CountValidSubarrays {
 
         int result = countSubarrays(arr, n);
         System.out.println("Total valid subarrays of size 3: " + result);
+        sc.close();
     }
 }
